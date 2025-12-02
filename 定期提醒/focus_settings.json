@@ -1,0 +1,16 @@
+{
+    "total_minutes": 90,
+    "min_work_minutes": 0,
+    "max_work_minutes": 1,
+    "rest_seconds": 15,
+    "sound1_path": "C:/Users/JA085914/Desktop/\u5b9a\u65f6\u63d0\u9192/alarm/3-sounds.mp3",
+    "sound2_path": "C:/Users/JA085914/Desktop/\u5b9a\u65f6\u63d0\u9192/alarm/level-up.mp3",
+    "main_width": 858,
+    "main_height": 707,
+    "settings_width": 1092,
+    "settings_height": 670,
+    "show_notifications": false,
+    "show_interval_notifications": false,
+    "show_session_end_notification": false,
+    "sound3_path": ""
+}
