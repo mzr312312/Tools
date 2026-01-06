@@ -9,9 +9,9 @@ def resolve_path(path):
 
 if __name__ == "__main__":
     # 您的核心代码文件名
-    target_script = "拆书.py"
+    target_script = "PDF-tool.py"
 
-    # 构造类似于命令行 'streamlit run 拆书.py' 的参数
+    # 构造类似于命令行 'streamlit run PDF-tool.py' 的参数
     # sys.argv[0] 是脚本名，sys.argv[1] 开始是参数
     sys.argv = [
         "streamlit",
